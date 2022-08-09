@@ -1,0 +1,6 @@
+password.txt
+*.png
+password.*
+folder/
+venv/
+.ipynb_checkpoints
