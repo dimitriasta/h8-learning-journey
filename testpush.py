@@ -5,4 +5,5 @@ person=int(input("how many person in the table?"))
 tot_amount=bill*(1+tip/100)
 tot_person=tot_amount/person
 
-print("So each person total is {:.2f} dollars".format(tot_person))
+print(f"So each person total is {tot_person:.2f} dollars")
+
